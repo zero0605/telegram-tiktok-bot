@@ -4,4 +4,4 @@ compatibility_date = "2023-03-12"
 usage_model = "bundled"
 
 [vars]
-SECRET_KEY = "7511028565:AAFrxfDQyi1XgFv0wQkDKDYwSmQaAjV12ak"
+SECRET_KEY = "7511028565DQyi1XgFv0wQkDKDYwSmQaAjV12ak"
